@@ -1,0 +1,22 @@
+a {
+  color: red;
+  text-decoration: none;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+#ul {
+  color: green;
+}
+
+.ol {
+  color: red;
+}
+
+dl:first-of-type dd:nth-child(2) {
+  color: orange;
+}
